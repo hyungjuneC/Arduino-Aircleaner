@@ -2,24 +2,24 @@
 
 this is the project for the capstone design in CAU
 
-Used Hardwares:
+#Used Hardwares:
 
-Arduino UNO
+1.Arduino UNO
 
-checks dust density with PPD42NS
+2.checks dust density with PPD42NS
 
-communicate with HM-10 Bluetooth Module
+3.communicate with HM-10 Bluetooth Module
 
-Humidity temparature Sensor:
+4.Humidity temparature Sensor:
 
-5V cooling Fan
+5.5V cooling Fan
 
-Switch connector
+6.Switch connector
 
 
 
-LEDModule
+7.LEDModule
 
-LCDModule
+8.LCDModule
 
 free to download
