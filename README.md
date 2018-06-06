@@ -2,7 +2,7 @@
 
 this is the project for the capstone design in CAU
 
-#Used Hardwares:
+# Used Hardwares:
 
 1.Arduino UNO
 
