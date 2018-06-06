@@ -24,12 +24,15 @@ this is the project for the capstone design in CAU
 
 # References:
 PPD42NS Specification
+
 make sensor value to dust density
+
 Link:https://www.hackster.io/58229/air-meter-making-4-complete-f35147
 Research about dust sensors
+
 Link:https://www.iscapeproject.eu/wp-content/uploads/2017/09/iSCAPE_D1.5_Summary-of-air-quality-sensors-and-recommendations-for-application.pdf
 
 # Prototype:
-![Alt text](/C:/Users/system999/Documents/카카오톡 받은 파일/KakaoTalk_20180603_210847759.jpg)
+![Alt text](/prototype.jpg)
 
 free to download
